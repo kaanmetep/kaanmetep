@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">I'm a third year Computer Engineering Student.</h3>
+<h3 align="center">I'm a fourth year Computer Engineering Student.</h3>
 
 ###
 

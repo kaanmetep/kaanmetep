@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">technologies I use while developing web applications:</h2>
 
 ###
 
@@ -31,7 +31,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
    <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/nextdotjs.svg" height="40" alt="mongodb logo"  />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/nextdotjs.svg" height="40" alt="nextjs logo"  />
+     <img width="12" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/git.svg" height="40" alt="git logo"  />
+      <img width="12" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/docker.svg" height="40" alt="docker logo"  />
 </div>
 
 ###

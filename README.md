@@ -31,11 +31,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
    <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/nextdotjs.svg" alt="Next.js" width="40" />
+  <img src="https://img.shields.io/badge/Next.js-%23000?logo=nextdotjs&logoColor=white" alt="Next.js" width="40" />
      <img width="12" />
- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/git.svg" alt="Git" width="40" />
+ <img src="https://img.shields.io/badge/Git-%23F14C28?logo=git&logoColor=white" alt="Git" width="40" />
       <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/docker.svg" alt="Docker" width="40" />
+  <img src="https://img.shields.io/badge/Docker-%2300B0D9?logo=docker&logoColor=white" alt="Docker" width="40" />
 
 </div>
 

@@ -31,11 +31,11 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/MongoDB-%2300B140?logo=mongodb&logoColor=white" height="40" alt="mongodb logo"  />
    <img width="12" />
-  <img src="https://img.shields.io/badge/Next.js-%23000?logo=nextdotjs&logoColor=white" alt="Next.js" width="40" />
+  <img src="https://img.shields.io/badge/Next.js-%23000000?logo=nextdotjs&logoColor=white&style=for-the-badge" alt="Next.js" width="40" />
      <img width="12" />
- <img src="https://img.shields.io/badge/Git-%23F14C28?logo=git&logoColor=white" alt="Git" width="40" />
+ <img src="https://img.shields.io/badge/Git-%23F14C28?logo=git&logoColor=white&style=for-the-badge" alt="Git" width="40" />
       <img width="12" />
-  <img src="https://img.shields.io/badge/Docker-%2300B0D9?logo=docker&logoColor=white" alt="Docker" width="40" />
+  <img src="https://img.shields.io/badge/Docker-%2300B0D9?logo=docker&logoColor=white&style=for-the-badge" alt="Docker" width="40" />
 
 </div>
 

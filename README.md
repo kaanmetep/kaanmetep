@@ -26,7 +26,9 @@
   <img src="https://img.shields.io/badge/Next.js-%23000000?logo=nextdotjs&logoColor=white&style=for-the-badge" alt="Next.js" height="30" />
   <img src="https://img.shields.io/badge/Git-%23F14C28?logo=git&logoColor=white&style=for-the-badge" alt="Git" height="30" />
   <img src="https://img.shields.io/badge/Docker-%2300B0D9?logo=docker&logoColor=white&style=for-the-badge" alt="Docker" height="30" />
-
+  <img src="https://img.shields.io/badge/Socket.IO-%23010101?logo=socketdotio&logoColor=white&style=for-the-badge" alt="Socket.IO" height="30" />
+  <img src="https://img.shields.io/badge/Supabase-%233ECF8E?logo=supabase&logoColor=white&style=for-the-badge" alt="Supabase" height="30" />
+  
 </div>
 
 ###

@@ -32,14 +32,15 @@
 </div>
 
 <h2 align="left">Check out:</h2>
-###
 <div align="left">
-  <a href="https://deepintodev.com" target="_blank">
-    <img src="https://img.shields.io/badge/DeepIntoDev-%23000000?style=for-the-badge&logo=web&logoColor=white" height="30" alt="deepintodev.com" />
+  📄 <a href="https://deepintodev.com" target="_blank">DeepIntoDev - Software Development Insights
   </a>
-  <a href="https://goviralfast.co" target="_blank">
-    <img src="https://img.shields.io/badge/GoViralFast-%23FF5733?style=for-the-badge&logo=web&logoColor=white" height="30" alt="goviralfast.co" />
+  <br>
+  🚀
+  <a href="https://goviralfast.co" target="_blank">GoViralFast - Create and Share Viral Videos in Minutes
   </a>
 </div>
+
+
 
 ###

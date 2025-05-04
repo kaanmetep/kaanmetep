@@ -32,7 +32,7 @@
 </div>
 
 
-<h2 align="left">some of my projects:</h2>
+<h2 align="left">some of my real-world projects:</h2>
 <div align="left">
   📄 <a href="https://deepintodev.com" target="_blank">DeepIntoDev - Software Development Insights
   </a>

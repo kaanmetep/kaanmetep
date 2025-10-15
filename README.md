@@ -35,7 +35,7 @@
 <h2 align="left">some of my real-world projects:</h2>
 <div align="left">
   📄 <a href="https://deepintodev.com" target="_blank">DeepIntoDev - Software Development Insights
-  </a>  (+500 verified subscribers worlwide)
+  </a>  (+700 verified subscribers worlwide)
   <br>
    <br>
   🚀

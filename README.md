@@ -13,7 +13,7 @@
   </b>
 </p>
 
-<h2 align="left">technologies I use while developing web applications:</h2>
+<h2 align="left">technologies I use while developing web/mobile applications:</h2>
 
 
 
@@ -25,6 +25,7 @@
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript&logoColor=black" height="30" alt="javascript logo"  />
   <img src="https://img.shields.io/badge/TypeScript-%23007ACC?logo=typescript&logoColor=white" height="30" alt="typescript logo" />
   <img src="https://img.shields.io/badge/React-%2361DAFB?logo=react&logoColor=black" height="30" alt="react logo"  />
+  <img src="https://img.shields.io/badge/React_Native-%2300D1F7?logo=react&logoColor=black" height="30" alt="react native logo" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC?logo=tailwindcss&logoColor=white" height="30" alt="tailwindcss logo"  />
   <img src="https://img.shields.io/badge/Node.js-%23339933?logo=node.js&logoColor=white" height="30" alt="nodejs logo"  />
   <img src="https://img.shields.io/badge/Express-%23000000?logo=express&logoColor=white" height="30" alt="express logo"  />
@@ -37,8 +38,11 @@
 </div>
 
 
+
 <h2 align="left">some of my real-world projects:</h2>
 <div align="left">
+   ❤️ <a href="https://www.knowusbetter.app" target="_blank">KnowUsBetter - Test Your Connection Together
+  </a>(currently building)  <br>  <br>
   📄 <a href="https://deepintodev.com" target="_blank">DeepIntoDev - Software Development Insights
   </a>  (+700 verified subscribers worlwide)
   <br>

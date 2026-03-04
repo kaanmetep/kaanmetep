@@ -7,8 +7,8 @@
 <p align="left">
   🌐 Website:
   <b>
-    <a href="https://kmpcodes.com" target="_blank" rel="noopener noreferrer">
-      kmpcodes.com
+    <a href="https://kaanpeksen.com" target="_blank" rel="noopener noreferrer">
+      kaanpeksen.com
     </a>
   </b>
 </p>
@@ -48,7 +48,7 @@
   <br>
    <br>
   🚀
-  <a href="https://goviralfast.co" target="_blank">GoViralFast - Create and Share Viral Videos in Minutes
+  <a href="https://goviralfast.vercel.app" target="_blank">GoViralFast - Create and Share Viral Videos in Minutes
   </a>
 </div>
 

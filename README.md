@@ -44,7 +44,7 @@
    ❤️ <a href="https://www.knowusbetter.app" target="_blank">KnowUsBetter - Test Your Connection Together
   </a><br>  <br>
   📄 <a href="https://deepintodev.com" target="_blank">DeepIntoDev - Software Development Insights
-  </a>  (+700 verified subscribers worlwide)
+  </a>  (+1000 verified subscribers worlwide)
   <br>
    <br>
   🚀
